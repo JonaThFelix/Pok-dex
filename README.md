@@ -1,4 +1,4 @@
-# Pok-dex
+# Pokedex
 
 </br>
 
